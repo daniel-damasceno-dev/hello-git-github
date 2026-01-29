@@ -1,4 +1,4 @@
-# Hello Git Github
+# Merge Hello Git Github
 
 # H1
 
