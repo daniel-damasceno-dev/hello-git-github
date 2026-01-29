@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Hello Git GitHub - Merge
-=======
-# Merge Hello Git Github
->>>>>>> 5713a0218caf16d329e03f2dae62842ff33a1aaf
 
 # H1
 
