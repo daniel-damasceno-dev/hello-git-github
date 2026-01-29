@@ -1,4 +1,4 @@
-# Hello Git Github
+# Hello Git GitHub - Merge
 
 # H1
 
@@ -10,6 +10,9 @@
 * Item
 * Item
 
-__Sample text__
+**Sample text**
+
 ## H2
+
 ### H3
+
