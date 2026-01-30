@@ -1,17 +1,44 @@
-# Merge - Hello Git GitHub
-# H1
+# Sistema de Gerenciamento de Tarefas
 
-1. Item
-2. Item
-3. Item
+## Descrição
+Este é um sistema de gerenciamento de tarefas desenvolvido em Java com Spring Boot.
 
-* Item
-* Item
-* Item
+## Funcionalidades
+- Criação de tarefas
+- Edição de tarefas
+- Exclusão de tarefas
+- Listagem de tarefas
+- **NOVO: Filtro por prioridade (adicionado por você)**
+- **NOVO: Busca por palavras-chave (adicionado por você)**
 
-**Sample text**
+## Tecnologias Utilizadas
+- Java 17
+- Spring Boot 3.2
+- PostgreSQL
+- Maven
+- JUnit 5
 
-## H2
+## Como Executar
+```bash
+mvn clean install
+mvn spring-boot:run
+```
 
-### H3
+## Configuração do Banco de Dados
+```properties
+spring.datasource.url=jdbc:postgresql://localhost:5432/taskdb
+spring.datasource.username=admin
+spring.datasource.password=senha123
+```
 
+## Testes
+Para rodar os testes:
+```bash
+mvn test
+```
+
+## Autor
+Seu Nome - Desenvolvedor Backend
+
+## Licença
+MIT License
